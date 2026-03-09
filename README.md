@@ -21,13 +21,18 @@ The dataset was used to train and evaluate different machine learning models.
 The project consists of four Google Colab notebooks:
 
 model_1.ipynb — baseline model implementation with YOLO
+Notebook:  https://colab.research.google.com/drive/1mEfWPuZnlpjfIgRY9RZstKLavMs013xm?usp=sharing
 
 model_2.ipynb — alternative model FASTER CNN with improved preprocessing
+Notebook: https://colab.research.google.com/drive/1vpAhxK_9M_2gKzGJnxOHDVbF81jPLLNc?usp=sharing
 
 model_3.ipynb — improved RetinaNet model for bird detection
+Notebook: https://colab.research.google.com/drive/1C5P_pIQvuzXKEmRa_0KczzeDQ_R0txKG?usp=sharing#scrollTo=AEbHEJZR2eWd
 
 model_comparison.ipynb — comparison and evaluation of model performance
+Notebook: https://colab.research.google.com/drive/1J82gDcbYlf5ubKHEaJcM9AbWNn4JyUJ3?usp=sharing
 
+---
 
 ## Machine Learning Pipeline
 
